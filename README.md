@@ -6,3 +6,15 @@ AI-powered simulated threat monitoring system using Flask, HTML, CSS, and JavaSc
 - Threat detection simulation
 - URL monitoring
 - Real-time dashboard
+
+- AERIX/
+│
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   ├── style.css
+│   └── app.js
+├── README.md
+└── .gitignore
+
